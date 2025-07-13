@@ -1,0 +1,23 @@
+.center {
+    width: 50%;
+    margin: 0 auto;
+}
+
+a {
+    text-decoration: underline;
+    color: black;
+    transition: color 0.3s;
+}
+a:hover {
+    color: rgb(0, 100, 255);
+    text-decoration: underline;
+}
+a:active {
+    color: black;
+}
+a:visited {
+    color: black;
+}
+#footer {
+    color: gray;
+}
